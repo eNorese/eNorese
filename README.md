@@ -4,7 +4,7 @@ My name is Enzo, I'm from Chile and I'm IT engineer.
   
 - 🤝 I'm currently working as a freelance developer
 - ⚡ I like to be learning new things and face new challenges
-- 🔭I'm passionate about science and technology, especially astronomy
+- 🔭 I'm passionate about science and technology, especially astronomy
 
 ### Skills 👨‍💻
 - Frontend development with HTML, CSS and Javascript with React framework
