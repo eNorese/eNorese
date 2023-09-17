@@ -1,8 +1,8 @@
 # Hello 👋
 
-My name is Enzo, I'm from Chile and I'm IT engineer.  
+My name is Enzo, I'm from Chile and I'm IT engineer.
   
-- 🤝 I'm currently working as a freelance developer
+- 🤝 I'm currently working as a software engineer at <a href="https://github.com/TeamWorkChile" target="_blank" rel="noreferrer">TeamWork Chile</a>
 - ⚡ I like to be learning new things and face new challenges
 - 🔭 I'm passionate about science and technology, especially astronomy
 
